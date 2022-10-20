@@ -18,3 +18,8 @@ function multiplicar(){
 function dividir(){
     resultado.innerHTML= parseInt(numero1.value) / parseInt(numero2.value);
 }
+function limpar(){
+    numero1.value="";
+    numero2.value="";
+
+}
