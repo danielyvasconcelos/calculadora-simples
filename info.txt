@@ -1,0 +1,50 @@
+Criando testes para uma calculadora	de 20/10/2022 às 00h00 a 26/10/2022 às 13h00	Não	0		
+Usando cypress, crie os seguintes testes para a calculadora desenvolvida na tarefa anterior:
+
+ 
+
+Expressões erradas
+
+Oi + Oi = Uma mensagem informando para inserir apenas números
+
+Soma
+
+2+2=4
+
+2+(-3)=-1
+
+5+0=5
+
+Subtração
+
+10-0=10
+
+0-10=-10
+
+0-0=0
+
+5-5=0
+
+Multiplicação
+
+6x6=36
+
+6x(-6)=36
+
+6x0=0
+
+0x6=0
+
+Divisão
+
+10/2=5
+
+5/2=2,5
+
+5/0=UMA MENSAGEM INFORMANDO QUE NÃO PODE-SE DIVISIR POR ZERO
+
+0/5=0
+
+Limpar 
+
+Limpar as entradas e o resultado
